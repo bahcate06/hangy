@@ -23,6 +23,10 @@ javac Hangman.java
 java Hangman
 ```
 
+# TEST IT HERE ON MY COMPILER :D !!!
+
+- https://duck-compiler.vercel.app/hangy
+
 ## Rules
 
 - You have 6 attempts to guess the word
