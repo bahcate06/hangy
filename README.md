@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-    __
+__
   >(x )___
    ( ._> /
-    `---'   ~ guess the word, save the duck ~
+                                       `---'   ~ guess the word, save the duck ~
 ```
 
 </div>
